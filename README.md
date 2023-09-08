@@ -1,3 +1,6 @@
+# DiArt
+![FigureS6_GUIv2](https://github.com/guomics-lab/DiArt/assets/51101922/e9a4ee57-f77d-4f17-a2c4-3d6514277a4d)
+
 *indicated the required parameters for running
 # Input:
   ○ "mzML dir" button*: Click to select the folder containing the mzML files to be analyzed. Only one folder can be selected, so all mzML files for analysis should be in the same folder.
