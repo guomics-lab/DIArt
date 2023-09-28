@@ -1,5 +1,6 @@
 # DiArt
-![FigureS6_GUIv2](https://github.com/guomics-lab/DiArt/assets/51101922/e9a4ee57-f77d-4f17-a2c4-3d6514277a4d)
+![FigureS6_GUIv2](https://github.com/guomics-lab/DIArt/assets/51101922/585495ab-cb2d-4b93-9722-e68e768d36aa)
+
 
 *indicated the required parameters for running
 # Input:
