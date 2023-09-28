@@ -35,3 +35,6 @@
   ○ Task count: Number of subtasks created by DIArt. Once the parameters are set, click the "Run" button to start the process. Clicking the "Stop" button will stop all processes and close the page. The running progress will be displayed in the top-right corner.  
 # Log info:  
   ○ The log area currently displays only key step information and progress logs of DIArt. For detailed logs, please refer to the "./diart.log" log file.  
+
+# Demo dataset
+The demonstration dataset is accessible through a release in this repository at https://github.com/guomics-lab/DIArt/releases/tag/demodata_v1.0.0. It includes a FASTA library file, a spectral library file, and an mzML file for showcasing the software's functionality.
